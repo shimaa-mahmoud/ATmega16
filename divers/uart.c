@@ -1,14 +1,4 @@
- /******************************************************************************
- *
- * Module: UART
- *
- * File Name: uart.c
- *
- * Description: Source file for the UART AVR driver
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
+
 
 #include "uart.h"
 
