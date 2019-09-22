@@ -1,14 +1,4 @@
- /******************************************************************************
- *
- * Module: UART
- *
- * File Name: uart.h
- *
- * Description: Header file for the UART AVR driver
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
+
 
 #ifndef UART_H_
 #define UART_H_
